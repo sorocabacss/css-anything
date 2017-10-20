@@ -12,6 +12,8 @@ Here are some of the contents covered:
 - CSS transitions and efects;
 - CSS animations;
 
+You can read about the first CSS::anything training session [here](https://medium.com/sorocabacss/css-anything-an-imersive-and-reactive-css-training-391ebf30c9f7)
+
 ## Featured Pens by Students
 
 ### Cat in a sweater by [Vinícius Puente](https://codepen.io/PuenteVinicius/pen/zzjPyN)
